@@ -47,6 +47,9 @@ nav{
         background-image: url("brooke-lark-wMzx2nBdeng-unsplash.jpg");
         }
         }
+        .body{
+            width:fit-content;
+             }
         h1{
             color: rgb(78, 75, 75);
             font-size: 20px;
